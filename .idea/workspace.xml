@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a46cdd3d-9773-45a2-8b4f-c6e00351bfad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dzien 5/2l.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/adania domowe po 5 dniu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/l1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/l10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/l11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/l3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/l4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/l5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/l7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/l8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/l9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/liczy pierwsze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/listy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/odd/copy deepcopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/odd/even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/odd/lista bez dupikatow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dzien 5/odd/petle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/próg procentowy/bankomat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/próg procentowy/fizzbuzz z pętlą.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/próg procentowy/join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/próg procentowy/liczy odd i  ieven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/próg procentowy/pętla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/próg procentowy/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/próg procentowy/vowels consonants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/próg procentowy/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/próg procentowy/wieza z gwiazdek.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plik.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien 5/adania domowe po 5 dniu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <caret line="23" selection-start-line="23" selection-end-line="24" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dzien 5/l3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien 5/l9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien 5/l4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien 5/l5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dzien 5/l2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day 3 if.py" />
+        <option value="$PROJECT_DIR$/zadanie.py" />
+        <option value="$PROJECT_DIR$/rok przestępny.py" />
+        <option value="$PROJECT_DIR$/podzeilny 3, 5, 7.py" />
+        <option value="$PROJECT_DIR$/dni w miesiącu.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/miesiąc dzien pora roku.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/miesiąc pora roku.py" />
+        <option value="$PROJECT_DIR$/oceny.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/temperatury.py" />
+        <option value="$PROJECT_DIR$/zada kołko.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/próg procentowy.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/trójkąt.py" />
+        <option value="$PROJECT_DIR$/ruletka.py" />
+        <option value="$PROJECT_DIR$/blackjack.py" />
+        <option value="$PROJECT_DIR$/5 ruletka.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/7 dni w miesiącu.py" />
+        <option value="$PROJECT_DIR$/praca domowa.py" />
+        <option value="$PROJECT_DIR$/11 dla chętnych.py" />
+        <option value="$PROJECT_DIR$/dzien 3/6 blackjack.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/9 miesiąc pora roku.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/pętla.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/while.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/fizzbuzz z pętlą.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/range.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/liczy odd i  ieven.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/vowels consonants.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/bankomat.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/wieza z gwiazdek.py" />
+        <option value="$PROJECT_DIR$/próg procentowy/join.py" />
+        <option value="$PROJECT_DIR$/dzien 5/listy.py" />
+        <option value="$PROJECT_DIR$/dzien 5/liczy pierwsze.py" />
+        <option value="$PROJECT_DIR$/dzien 5/odd/even.py" />
+        <option value="$PROJECT_DIR$/dzien 5/odd/copy deepcopy.py" />
+        <option value="$PROJECT_DIR$/dzien 5/odd/lista bez dupikatow.py" />
+        <option value="$PROJECT_DIR$/dzien 5/odd/l1.py" />
+        <option value="$PROJECT_DIR$/dzien 5/odd/2l.py" />
+        <option value="$PROJECT_DIR$/dzien 5/odd/3l.py" />
+        <option value="$PROJECT_DIR$/dzien 5/odd/l4.py" />
+        <option value="$PROJECT_DIR$/dzien 5/odd/petle.py" />
+        <option value="$PROJECT_DIR$/dzien 5/adania domowe po 5 dniu.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l1.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l2.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l4.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l3.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l11.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l9.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l10.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l6.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l8.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l7.py" />
+        <option value="$PROJECT_DIR$/dzien 5/l5.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1835" />
+    <option name="height" value="3235" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="infoshare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="infoshare" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="infoshare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mstrz\infoshare\dzien 5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mstrz\PycharmProjects\dzien 3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.l5">
+    <configuration name="l11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dzien 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dzien 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dzien 5/l11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="l2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dzien 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dzien 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dzien 5/l2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="l5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dzien 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dzien 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dzien 5/l5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="l7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dzien 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dzien 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dzien 5/l7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="l8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dzien 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dzien 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dzien 5/l8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.l11" />
+      <item itemvalue="Python.l7" />
+      <item itemvalue="Python.l8" />
+      <item itemvalue="Python.l2" />
+      <item itemvalue="Python.l5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.l5" />
+        <item itemvalue="Python.l11" />
+        <item itemvalue="Python.l7" />
+        <item itemvalue="Python.l2" />
+        <item itemvalue="Python.l8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a46cdd3d-9773-45a2-8b4f-c6e00351bfad" name="Default Changelist" comment="" />
+      <created>1551373259682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551373259682</updated>
+    </task>
+    <task id="LOCAL-00001" summary="zad l6">
+      <created>1552205780283</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552205780283</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zad l2">
+      <created>1552205835654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552205835654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="733" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12162162" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44610283" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966834" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3283582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zad l6" />
+    <MESSAGE value="zad l2" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad l2" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dzien 3.py" />
+    <entry file="file://$PROJECT_DIR$/day 3 if.py" />
+    <entry file="file://$PROJECT_DIR$/zadanie.py" />
+    <entry file="file://$PROJECT_DIR$/dni w miesiącu.py" />
+    <entry file="file://$PROJECT_DIR$/rok przestępny.py" />
+    <entry file="file://$PROJECT_DIR$/próg procentowy/miesiąc dzien pora roku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oceny.py" />
+    <entry file="file://$PROJECT_DIR$/podzeilny 3, 5, 7.py" />
+    <entry file="file://$PROJECT_DIR$/6 blackjack.py" />
+    <entry file="file://$PROJECT_DIR$/praca domowa.py" />
+    <entry file="file://$PROJECT_DIR$/11 dla chętnych.py" />
+    <entry file="file://$PROJECT_DIR$/5 ruletka.py" />
+    <entry file="file://$PROJECT_DIR$/zada kołko.py" />
+    <entry file="file://$PROJECT_DIR$/próg procentowy/10 temperatury.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 3/6 blackjack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/4 próg procentowy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/7 dni w miesiącu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/8  trójkąt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/9 miesiąc pora roku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/pętla.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/fizzbuzz z pętlą.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/liczy odd i  ieven.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/wieza z gwiazdek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/join.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/liczy pierwsze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/2l.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/vowels consonants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/odd/even.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="30" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/odd/copy deepcopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/odd/petle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/odd/lista bez dupikatow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" selection-start-line="9" selection-start-column="22" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/listy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/próg procentowy/bankomat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/adania domowe po 5 dniu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="23" selection-start-line="23" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dzien 5/l3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
